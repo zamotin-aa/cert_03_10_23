@@ -14,7 +14,7 @@ class Program
         string input = Console.ReadLine();
         string[] inputArray = input.Split(',');
 
-        //фмльтруем введенный массив
+        //фильтруем введенный массив
         string[] resultArray = FilterArrayByLength(inputArray, 3);
 
         //печатаем ответ

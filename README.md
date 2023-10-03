@@ -19,3 +19,8 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
 ```
+
+## Решение
+
+Решение сохранено в папке Task1.
+Для того, чтобы посмотреть решение [пройди по ссылке](https://github.com/zamotin-aa/cert_03_10_23/tree/main/Task1).
