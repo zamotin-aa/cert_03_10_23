@@ -26,3 +26,4 @@
 Для того, чтобы посмотреть решение [пройди по ссылке](https://github.com/zamotin-aa/cert_03_10_23/tree/main/Task1).
 
 Диаграмма приложена.
+Для того, чтобы посмотреть диаграмму [пройди по ссылке](https://github.com/zamotin-aa/cert_03_10_23/blob/main/FilterArrayByLength.pdf).
