@@ -9,12 +9,15 @@ class Program
 {
     static void Main()
     {
+        // ввод массива с клавиатуры, разделитель запятая
         Console.WriteLine("Введите строки через запятую:");
         string input = Console.ReadLine();
         string[] inputArray = input.Split(',');
 
+        //фмльтруем введенный массив
         string[] resultArray = FilterArrayByLength(inputArray, 3);
 
+        //печатаем ответ
         Console.WriteLine("Результат:");
         foreach (string str in resultArray)
         {
